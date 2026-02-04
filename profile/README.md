@@ -11,6 +11,9 @@ Sample applications for [Ona](https://ona.com) — ready to explore, copy, and a
 - [devcontainer-feature](https://github.com/ona-samples/devcontainer-feature) — Create custom dev container features
 - [vscode_extension_from_baseimage](https://github.com/ona-samples/vscode_extension_from_baseimage) — Pre-install VS Code extensions in base images
 
+**Ona Automations**
+- [AI Security Engineer](https://github.com/gitpod-io/ai-security-engineer/) - Scan and fix CVEs
+
 
 **Multi-Repository Setups**
 - [multi-repo](https://github.com/ona-samples/multi-repo) — Work with multiple repositories in one environment
