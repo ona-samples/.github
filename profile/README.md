@@ -41,7 +41,7 @@ Sample applications for [Ona](https://ona.com) — ready to explore, copy, and a
 
 
 **Related**
-- [Ona library] - Library for example prompts, commands and automations
+- [Ona library](https://ona-prompt-library.vercel.app/) - Library for example prompts, commands and automations
 - [gitpod-io](https://github.com/gitpod-io) — Ona core and internal examples
 - [Ona-SE](https://github.com/Ona-SE) — Polished demo applications
 - [Docs](https://ona.com/docs/ona/getting-started) — Get started with Ona
