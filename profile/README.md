@@ -12,7 +12,7 @@ Sample applications for [Ona](https://ona.com) — ready to explore, copy, and a
 - [vscode_extension_from_baseimage](https://github.com/ona-samples/vscode_extension_from_baseimage) — Pre-install VS Code extensions in base images
 
 **Ona Automations**
-- [AI Security Engineer](https://github.com/gitpod-io/ai-security-engineer/) - Scan and fix CVEs
+- [AI Security Engineer](https://github.com/gitpod-io/ai-security-engineer/) - Continuously scan repos for CVEs, file PRs to fix them, and drive PRs to be merged.
 
 
 **Multi-Repository Setups**
